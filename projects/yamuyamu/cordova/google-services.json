@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102831239819",
+    "firebase_url": "https://yamuyamulk-8d85c.firebaseio.com",
+    "project_id": "yamuyamulk-8d85c",
+    "storage_bucket": "yamuyamulk-8d85c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102831239819:android:1d74fd71e40ba39b7d5a8e",
+        "android_client_info": {
+          "package_name": "com.jid.yamuyamu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102831239819-hrdvgof3974ruiv21biutdmb1q54sfo9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACI8Q1-5WYAIXzzw7-zJmohApi_T409eI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102831239819-hrdvgof3974ruiv21biutdmb1q54sfo9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+ }

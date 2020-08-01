@@ -16,12 +16,12 @@
         <Loading :data="trips" v-if="showingTrips">
             <div class="trips-list row">
                 <modal :name="'modal'" v-if="showModal" @close="showModal = false" :title="'Test'" :body="'Body'">
-                    <h3 slot="header">
+                  <!--  <h3 slot="header">
                         <span> {{ $t('donaA') }}  </span>
                         <br class="hidden-sm hidden-md hidden-lg">
                         <small> {{ $t('proyectoDe') }} </small>
                         <img width="90" alt="STS Rosario" src="https://carpoolear.com.ar/img/logo_sts_nuevo_color.png">
-                    </h3>
+                    </h3> -->
                     <div slot="body" class="donation">
                         <div class="radio">
                             <label class="radio-inline">

@@ -270,7 +270,7 @@
 
 .leaflet-bar {
 	box-shadow: 0 1px 5px rgba(0,0,0,0.65);
-	border-radius: 4px;
+	border-radius: 1.0em;
 	}
 .leaflet-bar a,
 .leaflet-bar a:hover {
@@ -340,7 +340,7 @@
 .leaflet-control-layers {
 	box-shadow: 0 1px 5px rgba(0,0,0,0.4);
 	background: #fff;
-	border-radius: 5px;
+	border-radius: 1.oem;
 	}
 .leaflet-control-layers-toggle {
 	background-image: url(images/layers.png);
@@ -466,7 +466,7 @@
 .leaflet-popup-content-wrapper {
 	padding: 1px;
 	text-align: left;
-	border-radius: 12px;
+	border-radius: 1.0em;
 	}
 .leaflet-popup-content {
 	margin: 13px 19px;
@@ -564,7 +564,7 @@
 	padding: 6px;
 	background-color: #fff;
 	border: 1px solid #fff;
-	border-radius: 3px;
+	border-radius: 1.0em;
 	color: #222;
 	white-space: nowrap;
 	-webkit-user-select: none;
